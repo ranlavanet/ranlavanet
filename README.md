@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranlavanet&show_icons=true&locale=en" alt="ranlavanet" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranlavanet&show_icons=true&locale=en" alt="ranlavanet" /></p> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 <!--
 **ranlavanet/ranlavanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
