@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+FYI, some of my projects are under NDA and are not publicly available 
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranlavanet&show_icons=true&locale=en" alt="ranlavanet" /></p> -->
 
 ![RanLavanet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranlavanet&show_icons=true)
